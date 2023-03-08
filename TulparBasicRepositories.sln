@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulparBasicRepositories", "TulparBasicRepositories.csproj", "{A0B4572A-F41F-45E9-A88E-B918A65265E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B4572A-F41F-45E9-A88E-B918A65265E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B4572A-F41F-45E9-A88E-B918A65265E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B4572A-F41F-45E9-A88E-B918A65265E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B4572A-F41F-45E9-A88E-B918A65265E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAC2BE4A-B3FB-40F0-91A2-8AEB8BAA88FF}
+	EndGlobalSection
+EndGlobal

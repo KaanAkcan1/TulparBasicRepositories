@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+	<metadata>
+		<id>TulparBasicRepositories</id>
+		<version>1.0.0</version>
+		<title>Repositories</title>
+		<authors>KaanAkcan</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+		<icon> TulparIkon.jpg</icon>
+		<projectUrl>https://github.com/KaanAkcan1/TulparResponses.v1</projectUrl>
+		<!--<iconUrl>"TulparIkon.jpg"</iconUrl>-->
+		<description>Tulpar Basic Repositories Nuget Package</description>
+		<releaseNotes>First Debug</releaseNotes>
+		<copyright>$copyright$</copyright>
+		<tags>Repository C#</tags>
+	</metadata>
+	<files>
+
+		<file src="TulparIkon.jpg" target="TulparIkon.jpg"></file>
+	</files>
+</package>
