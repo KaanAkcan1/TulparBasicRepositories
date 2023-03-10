@@ -2,20 +2,27 @@
 <package >
 	<metadata>
 		<id>TulparBasicRepositories</id>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<title>Repositories</title>
 		<authors>KaanAkcan</authors>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<license type="expression">MIT</license>
 		<icon> TulparIkon.jpg</icon>
 		<projectUrl>https://github.com/KaanAkcan1/TulparBasicRepositories</projectUrl>
-		<description>Tulpar Basic Repositories Nuget Package</description>
-		<releaseNotes>First Debug</releaseNotes>
-		<copyright>$copyright$</copyright>
-		<tags>Repository C#</tags>
+		<description>This nuget package specially designed for DbFirst projects. You should check project github site for using.</description>
+		<releaseNotes>Project nuspec file organized</releaseNotes>
+		<copyright>Copyright 2023</copyright>
+		<tags>Repository C# EntityFrameworkCore</tags>
 	</metadata>
+	
+	<dependencies>
+		<group targetFramework=".net 7.0.3">
+			<dependency id="Microsoft.EntityFrameworkCore" version="7.0.3"/>
+		</group>
+		<dependency id ="TulparResponses" version = "1.0.4"/>
+	</dependencies>
+	
 	<files>
-
 		<file src="TulparIkon.jpg" target="TulparIkon.jpg"></file>
 	</files>
 </package>
